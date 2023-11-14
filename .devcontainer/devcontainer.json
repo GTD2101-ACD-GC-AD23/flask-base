@@ -1,0 +1,13 @@
+{
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"GitHub.copilot",
+	      			"ms-python.python",
+	      			"ms-toolsai.jupyter",
+				"GrapeCity.gc-excelviewer"
+			]
+		}
+	},
+	"postCreateCommand": "pip install -r requirements.txt"
+}
