@@ -1,4 +1,3 @@
-# flask-base
+![](portada.png)
 
-
-$ flask --app app run
+# Creación de una API de IA usando Python y Flask
